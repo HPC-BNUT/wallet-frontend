@@ -1,3 +1,3 @@
 export default function Home() {
-  return <div>Landing Wallet Page</div>;
+  return <div className="my-8 ">Landing Wallet Page</div>;
 }
